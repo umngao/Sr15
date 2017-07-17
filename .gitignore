@@ -1,0 +1,12 @@
+backup/**/*
+*.Rproj
+*.Rproj*/**/*
+LD_HMP_file/**/*
+older_versions_files/**/*
+ref_literature/**/*
+sr15datadump/old_data/*
+sr15kaspresult/**/*
+submitted_MOLB/**/*
+Rouse_corresponding_author_versions/**/*
+*.RData
+*.Rhistory
