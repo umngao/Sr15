@@ -17,7 +17,7 @@ git checkout a8c1931
 cd /cygdrive/d/Dropbox/05_publications/Gao_Zelma
 rust_script="$HOME/scripts/rust_scores_conversion/convert_rust_reading.seedling.pl"
 my_typo="$HOME/scripts/rust_scores_conversion/sample_data_seedling/typo.seedling.txt"
-my_pheno='sr15datadump/old_data/20170628_Table1_orig.txt'
+my_pheno='sr15datadump/20170724_Table1_orig.txt'
 columns='1,2,3,4,5,6,7,8'
 perl $rust_script --typo $my_typo --pheno $my_pheno --columns $columns
 
