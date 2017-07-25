@@ -4,7 +4,6 @@
 
 
 Folder ***scripts*** contain one shell script and one R script that can be used to replicate the regression or ANOVA analysis   
-01_cmd.perl.sh were run on 2017-07-01.   
 perl version 5.22.3   
 rust_score_conversion scripts version a8c1931      
 R version 3.1.3   
